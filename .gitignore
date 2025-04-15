@@ -1,1 +1,13 @@
 house_price_predictor.pkl
+# Ignorer les fichiers de cache Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Ignorer les fichiers temporaires
+*.log
+*.DS_Store
+
+# Si tu utilises un environnement virtuel dans le dossier
+venv/
